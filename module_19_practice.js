@@ -99,3 +99,6 @@
 //     evenNumber ++;
 // }
 
+
+// task 3
+// subtask 1 sum of odd numbers 
